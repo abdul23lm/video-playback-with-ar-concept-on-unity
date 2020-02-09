@@ -17,6 +17,7 @@ With the help of the Augmented Reality Video feature on the P.Y A Travel applica
 
 # Database Marker Vuforia
 
-![Database Marker](https://drive.google.com/file/d/1fUZBhDAObz6uU_mtKWGD8tR87N446ERD/view?usp=sharing)
+![Database Marker](https://github.com/abdul23lm/video-playback-with-ar-concept-using-unity/blob/master/Poster/MarkerVideo.png)
 
-#Application Poster
+# Application Poster
+![Database Marker](https://github.com/abdul23lm/video-playback-with-ar-concept-using-unity/blob/master/Poster/PY.%20A%20Travel%20-%20Poster%20Cahaya%20Villa%20Garut.png)
