@@ -1,5 +1,5 @@
-# video-playback-with-ar-concept-using-unity
-video-playback-on-travel-poster-with-augmented-reality-concept-using-unity-android
+# video-playback-with-ar-concept-on-unity
+Video Playback With AR Concept On Unity (Android)
 
 # Application summary
 PY A Travel is an application about Tour & Travel where there is an Augmented Reality video feature that can be scanned on the QR Code on the poster.
